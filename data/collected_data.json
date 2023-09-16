@@ -1,0 +1,100 @@
+{
+    "МЫ МТС+": {
+        "product_price": "990₽/мес",
+        "product_mobile_internet": "40 ГБ",
+        "product_TV": "237 ТВ",
+        "product_intenet_speed": "1 Гбит/с",
+        "product_minutes": "2500 минут"
+    },
+    "Весь МТС Супер": {
+        "product_price": "700₽/мес",
+        "product_mobile_internet": "30 ГБ",
+        "product_TV": "237 ТВ",
+        "product_intenet_speed": "500 Мбит/с",
+        "product_minutes": "1500 минут"
+    },
+    "Весь МТС Лайт 500": {
+        "product_price": "500₽/мес",
+        "product_mobile_internet": "30 ГБ",
+        "product_TV": null,
+        "product_intenet_speed": "500 Мбит/с",
+        "product_minutes": null
+    },
+    "Весь МТС Супер 1 Гбит": {
+        "product_price": "1100₽/мес",
+        "product_mobile_internet": "30 ГБ",
+        "product_TV": "237 ТВ",
+        "product_intenet_speed": "1 Гбит/с",
+        "product_minutes": "1500 минут"
+    },
+    "Весь МТС Лайт 1 Гбит": {
+        "product_price": "990₽/мес",
+        "product_mobile_internet": "30 ГБ",
+        "product_TV": null,
+        "product_intenet_speed": "1 Гбит/с",
+        "product_minutes": null
+    },
+    "Весь МТС Лайт 200": {
+        "product_price": "500₽/мес",
+        "product_mobile_internet": "30 ГБ",
+        "product_TV": null,
+        "product_intenet_speed": "200 Мбит/с",
+        "product_minutes": null
+    },
+    "Весь МТС Экстра": {
+        "product_price": "1190₽/мес",
+        "product_mobile_internet": "100 ГБ",
+        "product_TV": "250 ТВ",
+        "product_intenet_speed": null,
+        "product_minutes": null
+    },
+    "Семейная подписка МТС Premium": {
+        "product_price": "299₽/мес",
+        "product_mobile_internet": "50 ГБ",
+        "product_TV": null,
+        "product_intenet_speed": null,
+        "product_minutes": null
+    },
+    "МТС Premium": {
+        "product_price": "249₽/мес",
+        "product_mobile_internet": "50 ГБ",
+        "product_TV": null,
+        "product_intenet_speed": null,
+        "product_minutes": null
+    },
+    "Выгодный обмен": {
+        "product_price": "3500₽",
+        "product_mobile_internet": null,
+        "product_TV": "250 ТВ",
+        "product_intenet_speed": null,
+        "product_minutes": null
+    },
+    "Годовой": {
+        "product_price": "1000₽/год",
+        "product_mobile_internet": null,
+        "product_TV": "250 ТВ",
+        "product_intenet_speed": null,
+        "product_minutes": null
+    },
+    "Год на максимуме!": {
+        "product_price": "250₽/мес",
+        "product_mobile_internet": null,
+        "product_TV": "263 ТВ",
+        "product_intenet_speed": null,
+        "product_minutes": null
+    },
+    "KION": {
+        "product_price": "160₽/мес",
+        "product_mobile_internet": null,
+        "product_TV": "237 ТВ",
+        "product_intenet_speed": null,
+        "product_minutes": null
+    },
+    "Оптимальный": {
+        "product_price": "120₽/мес",
+        "product_mobile_internet": null,
+        "product_TV": "80 ТВ",
+        "product_intenet_speed": null,
+        "product_minutes": null
+    }
+}
